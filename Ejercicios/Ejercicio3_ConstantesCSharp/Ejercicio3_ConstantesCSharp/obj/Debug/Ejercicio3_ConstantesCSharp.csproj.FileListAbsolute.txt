@@ -1,0 +1,8 @@
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios\Ejercicio3_ConstantesCSharp\Ejercicio3_ConstantesCSharp\bin\Debug\Ejercicio3_ConstantesCSharp.exe.config
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios\Ejercicio3_ConstantesCSharp\Ejercicio3_ConstantesCSharp\bin\Debug\Ejercicio3_ConstantesCSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios\Ejercicio3_ConstantesCSharp\Ejercicio3_ConstantesCSharp\bin\Debug\Ejercicio3_ConstantesCSharp.pdb
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios\Ejercicio3_ConstantesCSharp\Ejercicio3_ConstantesCSharp\obj\Debug\Ejercicio3_ConstantesCSharp.csproj.AssemblyReference.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios\Ejercicio3_ConstantesCSharp\Ejercicio3_ConstantesCSharp\obj\Debug\Ejercicio3_ConstantesCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios\Ejercicio3_ConstantesCSharp\Ejercicio3_ConstantesCSharp\obj\Debug\Ejercicio3_ConstantesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios\Ejercicio3_ConstantesCSharp\Ejercicio3_ConstantesCSharp\obj\Debug\Ejercicio3_ConstantesCSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios\Ejercicio3_ConstantesCSharp\Ejercicio3_ConstantesCSharp\obj\Debug\Ejercicio3_ConstantesCSharp.pdb
