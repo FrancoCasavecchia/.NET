@@ -1,0 +1,8 @@
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio_IF-ELSE_CSharp\Ejercicio_IF-ELSE_CSharp\bin\Debug\Ejercicio_IF-ELSE_CSharp.exe.config
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio_IF-ELSE_CSharp\Ejercicio_IF-ELSE_CSharp\bin\Debug\Ejercicio_IF-ELSE_CSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio_IF-ELSE_CSharp\Ejercicio_IF-ELSE_CSharp\bin\Debug\Ejercicio_IF-ELSE_CSharp.pdb
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio_IF-ELSE_CSharp\Ejercicio_IF-ELSE_CSharp\obj\Debug\Ejercicio_IF-ELSE_CSharp.csproj.AssemblyReference.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio_IF-ELSE_CSharp\Ejercicio_IF-ELSE_CSharp\obj\Debug\Ejercicio_IF-ELSE_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio_IF-ELSE_CSharp\Ejercicio_IF-ELSE_CSharp\obj\Debug\Ejercicio_IF-ELSE_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio_IF-ELSE_CSharp\Ejercicio_IF-ELSE_CSharp\obj\Debug\Ejercicio_IF-ELSE_CSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio_IF-ELSE_CSharp\Ejercicio_IF-ELSE_CSharp\obj\Debug\Ejercicio_IF-ELSE_CSharp.pdb
