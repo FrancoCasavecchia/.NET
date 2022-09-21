@@ -1,0 +1,8 @@
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio8_ForCSharp\Ejercicio8_ForCSharp\bin\Debug\Ejercicio8_ForCSharp.exe.config
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio8_ForCSharp\Ejercicio8_ForCSharp\bin\Debug\Ejercicio8_ForCSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio8_ForCSharp\Ejercicio8_ForCSharp\bin\Debug\Ejercicio8_ForCSharp.pdb
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio8_ForCSharp\Ejercicio8_ForCSharp\obj\Debug\Ejercicio8_ForCSharp.csproj.AssemblyReference.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio8_ForCSharp\Ejercicio8_ForCSharp\obj\Debug\Ejercicio8_ForCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio8_ForCSharp\Ejercicio8_ForCSharp\obj\Debug\Ejercicio8_ForCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio8_ForCSharp\Ejercicio8_ForCSharp\obj\Debug\Ejercicio8_ForCSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio8_ForCSharp\Ejercicio8_ForCSharp\obj\Debug\Ejercicio8_ForCSharp.pdb

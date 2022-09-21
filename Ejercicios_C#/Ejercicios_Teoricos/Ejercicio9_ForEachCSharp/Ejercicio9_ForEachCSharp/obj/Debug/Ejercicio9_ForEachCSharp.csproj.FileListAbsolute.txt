@@ -1,0 +1,8 @@
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio9_ForEachCSharp\Ejercicio9_ForEachCSharp\obj\Debug\Ejercicio9_ForEachCSharp.csproj.AssemblyReference.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio9_ForEachCSharp\Ejercicio9_ForEachCSharp\obj\Debug\Ejercicio9_ForEachCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio9_ForEachCSharp\Ejercicio9_ForEachCSharp\obj\Debug\Ejercicio9_ForEachCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio9_ForEachCSharp\Ejercicio9_ForEachCSharp\bin\Debug\Ejercicio9_ForEachCSharp.exe.config
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio9_ForEachCSharp\Ejercicio9_ForEachCSharp\bin\Debug\Ejercicio9_ForEachCSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio9_ForEachCSharp\Ejercicio9_ForEachCSharp\bin\Debug\Ejercicio9_ForEachCSharp.pdb
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio9_ForEachCSharp\Ejercicio9_ForEachCSharp\obj\Debug\Ejercicio9_ForEachCSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio9_ForEachCSharp\Ejercicio9_ForEachCSharp\obj\Debug\Ejercicio9_ForEachCSharp.pdb
