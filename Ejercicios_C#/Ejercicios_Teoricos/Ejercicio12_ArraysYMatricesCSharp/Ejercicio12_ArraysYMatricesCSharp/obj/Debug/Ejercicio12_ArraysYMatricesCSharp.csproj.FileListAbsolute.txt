@@ -1,0 +1,8 @@
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio12_ArraysYMatricesCSharp\Ejercicio12_ArraysYMatricesCSharp\bin\Debug\Ejercicio12_ArraysYMatricesCSharp.exe.config
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio12_ArraysYMatricesCSharp\Ejercicio12_ArraysYMatricesCSharp\bin\Debug\Ejercicio12_ArraysYMatricesCSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio12_ArraysYMatricesCSharp\Ejercicio12_ArraysYMatricesCSharp\bin\Debug\Ejercicio12_ArraysYMatricesCSharp.pdb
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio12_ArraysYMatricesCSharp\Ejercicio12_ArraysYMatricesCSharp\obj\Debug\Ejercicio12_ArraysYMatricesCSharp.csproj.AssemblyReference.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio12_ArraysYMatricesCSharp\Ejercicio12_ArraysYMatricesCSharp\obj\Debug\Ejercicio12_ArraysYMatricesCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio12_ArraysYMatricesCSharp\Ejercicio12_ArraysYMatricesCSharp\obj\Debug\Ejercicio12_ArraysYMatricesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio12_ArraysYMatricesCSharp\Ejercicio12_ArraysYMatricesCSharp\obj\Debug\Ejercicio12_ArraysYMatricesCSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Teoricos\Ejercicio12_ArraysYMatricesCSharp\Ejercicio12_ArraysYMatricesCSharp\obj\Debug\Ejercicio12_ArraysYMatricesCSharp.pdb
