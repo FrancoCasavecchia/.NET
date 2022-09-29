@@ -95,6 +95,7 @@ namespace EjercicioPractico1_CSharp
 
             //Recorre los números del 1 al 100. Usa un bucle for.
             WriteLine("Ejercicio 5");
+
             for (int i = 0; i == 100; i++)
             {
                 WriteLine(i);
@@ -106,8 +107,9 @@ namespace EjercicioPractico1_CSharp
             WriteLine("Ejercicio 6");
             int y = 0;
 
-            while (y != 100)
+            while (y != 100)    
             {
+                WriteLine("El numero es " + y);
                 y++;
             }
 
@@ -115,7 +117,7 @@ namespace EjercicioPractico1_CSharp
 
             //Recorre los números del 1 al 100. Muestra los números pares. Usar el tipo de bucle que quieras.
             WriteLine("Ejercicio 7");
-            for (int x = 0; x == 100; x++)
+            for (int x = 0; x = 100; x++)
             {
                 if ((x % 2 ) == 0)
                 {
