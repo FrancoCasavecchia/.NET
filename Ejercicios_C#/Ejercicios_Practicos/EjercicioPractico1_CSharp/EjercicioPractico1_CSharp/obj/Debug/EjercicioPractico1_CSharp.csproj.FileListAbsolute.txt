@@ -1,0 +1,8 @@
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Practicos\EjercicioPractico1_CSharp\EjercicioPractico1_CSharp\bin\Debug\EjercicioPractico1_CSharp.exe.config
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Practicos\EjercicioPractico1_CSharp\EjercicioPractico1_CSharp\bin\Debug\EjercicioPractico1_CSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Practicos\EjercicioPractico1_CSharp\EjercicioPractico1_CSharp\bin\Debug\EjercicioPractico1_CSharp.pdb
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Practicos\EjercicioPractico1_CSharp\EjercicioPractico1_CSharp\obj\Debug\EjercicioPractico1_CSharp.csproj.AssemblyReference.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Practicos\EjercicioPractico1_CSharp\EjercicioPractico1_CSharp\obj\Debug\EjercicioPractico1_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Practicos\EjercicioPractico1_CSharp\EjercicioPractico1_CSharp\obj\Debug\EjercicioPractico1_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Practicos\EjercicioPractico1_CSharp\EjercicioPractico1_CSharp\obj\Debug\EjercicioPractico1_CSharp.exe
+C:\Users\Tomi\Documents\GitHub\.NET\Ejercicios_C#\Ejercicios_Practicos\EjercicioPractico1_CSharp\EjercicioPractico1_CSharp\obj\Debug\EjercicioPractico1_CSharp.pdb
