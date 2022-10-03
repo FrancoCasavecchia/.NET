@@ -96,9 +96,12 @@ namespace EjercicioPractico1_CSharp
             //Recorre los números del 1 al 100. Usa un bucle for.
             WriteLine("Ejercicio 5");
 
-            for (int i = 0; i == 100; i++)
+            
+
+            for (int i = 0; i <= 100; i++)
             {
-                WriteLine(i);
+                WriteLine("El Numero es " + i);
+                WriteLine("-----------------------------");
             }
 
             WriteLine();
@@ -111,29 +114,32 @@ namespace EjercicioPractico1_CSharp
             {
                 WriteLine("El numero es " + y);
                 y++;
+                WriteLine("-----------------------------");
             }
 
             WriteLine("");
 
             //Recorre los números del 1 al 100. Muestra los números pares. Usar el tipo de bucle que quieras.
             WriteLine("Ejercicio 7");
-            for (int x = 0; x = 100; x++)
+            for (int x = 0; x <= 100; x++)
             {
                 if ((x % 2 ) == 0)
                 {
                     WriteLine(x + " Es Par");
+                    WriteLine("-----------------------------");
                 }
             }
 
-            WriteLine("");
+                WriteLine("");
 
             //Recorre los números del 1 al 100. Muestra los números pares o divisibles entre 3.
             WriteLine("Ejercicio 8");
-            for (int z = 0; z == 100; z++)
+            for (int z = 0; z <= 100; z++)
             {
                 if ((z % 2) == 0 || (z % 3) == 0)
                 {
                     WriteLine(z + " Es Par o divisible por 3");
+                    WriteLine("-----------------------------");
                 }
             }
 
@@ -144,12 +150,13 @@ namespace EjercicioPractico1_CSharp
 
             int[] arrayPares = new int[100];
 
-            for (int p = 1; p == 100 ; p++)
+            for (int p = 1; p <= 100 ; p++)
             {
                 if ((p % 2) == 0)
                 {
                     arrayPares[p] = p;
-                    WriteLine(arrayPares[p]);
+                    WriteLine("Numero en el array " + arrayPares[p]);
+                    WriteLine("-----------------------------");
                 }
 
             }
@@ -159,7 +166,7 @@ namespace EjercicioPractico1_CSharp
             //Pide 10 números por consola, muestra el resultado por consola de sumar los pares y restarle los impares.
             WriteLine("Ejercicio 10");
 
-
+            WriteLine();
 
 
 
