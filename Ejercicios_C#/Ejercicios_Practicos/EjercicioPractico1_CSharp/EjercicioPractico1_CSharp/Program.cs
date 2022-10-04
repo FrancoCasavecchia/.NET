@@ -163,13 +163,34 @@ namespace EjercicioPractico1_CSharp
 
             WriteLine(" ");
 
-            //Pide 10 números por consola, muestra el resultado por consola de sumar los pares y restarle los impares.
+            //Pide 10 números por consola, muestra el resultado por consola de sumar los
+            //pares y restarle los impares.
             WriteLine("Ejercicio 10");
 
-            WriteLine();
+         
+            int n;
+
+            WriteLine("Ingrese 10 numeros");
+            for(int x = 0; x <= 10; x++)
+            {
+                WriteLine("Ingrese el numero " + x);
+                n = ToInt32(ReadLine());
+                if ((n % 2) == 0)
+                {
+                    int resulFin = n;
+                    
+
+                }
+                else
+                {
+                    int resulFin = n;
+                }
+                
+            }
 
 
 
+            WriteLine(" ");
         }
     }
 }
