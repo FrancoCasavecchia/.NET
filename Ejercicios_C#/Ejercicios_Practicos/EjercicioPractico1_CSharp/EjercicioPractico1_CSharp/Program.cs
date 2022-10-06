@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -148,7 +149,7 @@ namespace EjercicioPractico1_CSharp
             //Crea un array e inserta los números pares del 1 al 100 en ese array.
             WriteLine("Ejercicio 9");
 
-            int[] arrayPares = new int[100];
+            int[] arrayPares = new int[101];
 
             for (int p = 1; p <= 100 ; p++)
             {
@@ -168,29 +169,135 @@ namespace EjercicioPractico1_CSharp
             WriteLine("Ejercicio 10");
 
          
-            int n;
 
-            WriteLine("Ingrese 10 numeros");
-            for(int x = 0; x <= 10; x++)
+
+            byte CAN, K;
+            int NUM;
+            int SUM = 0;
+            string linea;
+
+            Console.Write("LÍMITE:"); 
+            linea = ReadLine();
+            CAN = byte.Parse(linea);
+
+            for (K = 1; K <= CAN; K++)
             {
-                WriteLine("Ingrese el numero " + x);
-                n = ToInt32(ReadLine());
-                if ((n % 2) == 0)
-                {
-                    int resulFin = n;
-                    
-
-                }
-                else
-                {
-                    int resulFin = n;
-                }
-                
+                Write("DIGITE UN NÚMERO:"); 
+                linea = ReadLine();
+                NUM = int.Parse(linea);
+                SUM += NUM;
             }
+            WriteLine("SUMA TOTAL ES : " + SUM);
+            Write("Pulse una Tecla:");  ReadLine();
+
 
 
 
             WriteLine(" ");
+            //11- Crea un programa, que pida un número del 1 al 7,
+            //devuelva el día de la semana ,teniendo en cuenta que el 1 es Lunes,
+            //hacer con un switch.
+            WriteLine("Ejercicio 11");
+
+            WriteLine("Ingrese un numero del 1 al 7 y te devolvera el dia de la semana correspondiente");
+            int numeroSem = ToInt32(ReadLine());
+
+            switch (numeroSem)
+            {
+                case 1:WriteLine("Lunes");
+                    break;
+
+                case 2: WriteLine("Martes");
+                    break ;
+
+                case 3: WriteLine("Miercoles");
+                    break;
+
+                case 4: WriteLine("Jueves");
+                    break;
+
+                case 5: WriteLine("Viernes");
+                    break;
+
+                case 6: WriteLine("Sabado");
+                    break;
+
+                case 7: WriteLine("Domingo");       
+                    break;
+
+                default: WriteLine("No se ingreso ningun numero");
+                    break;
+            }
+
+            WriteLine("");
+
+            //12- Crea un programa que pida por consola un numero del 1 al 1000
+            //(validara que el numero introducido es correcto) y
+            //sume todos los números del 1 al numero introducido,
+            //mostrando por consola el numero de la suma y la media.
+
+            WriteLine("Ejercicio 12");
+
+            WriteLine("Ingrese un numero del 1 al 1000");
+            int numUnoMil = ToInt32(ReadLine());
+            int numFinal = 0;
+
+            if(numUnoMil <=1000 && numUnoMil >= 1)
+            {
+                while (numUnoMil != 1000)
+                {
+                    int numEjemplo = 0;
+                    numFinal = numEjemplo + numEjemplo;
+                    numEjemplo++;
+                }
+
+                WriteLine("La suma de los numeros desde el 1 al seleccionado es de " + numFinal);
+            }
+            else
+            {
+                WriteLine("El numero ingresado es incorrecto");
+            }
+
+            WriteLine("");
+
+            //13 Comprobar si un numero introducido por consola es primo
+            WriteLine("Ejercicio 13");
+
+            int sw, resi;
+            int xx = 2;
+            sw = 0;
+            WriteLine("NUMERO PRIMO");
+            WriteLine();
+            Write("Ingrese el numero:");
+            int lineaa =  ToInt32(ReadLine());
+
+            while (xx < lineaa && sw == 0)
+            {
+                resi = lineaa % xx;
+                if (resi == 0)
+                {
+                    sw = 1;
+                }
+                else
+                {
+                    xx = xx + 1;
+                }
+            }
+            if (sw == 0)
+            {
+                 WriteLine();
+                 WriteLine("El numero es PRIMO");
+            }
+            else
+            {
+                 WriteLine();
+                 WriteLine("El numero no es PRIMO");
+            }
+             ReadKey();
+
+            WriteLine();
+            WriteLine("FIN");
+
         }
     }
 }
